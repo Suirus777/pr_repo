@@ -1,7 +1,14 @@
 <<<<<<< HEAD
+!!!!!!!!
+
+<<<<<<< HEAD
 For main
 
 =======
+=======
+For merging of Slave and slave2
+
+>>>>>>> Slave
 For Slave
 >>>>>>> Slave
 
