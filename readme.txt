@@ -1,17 +1,2 @@
-lksdfndkjghndkjfgndkjfgdf
-df
-hfg
-h
-fgh
-fh
-f
-hf
-h
-fh
-fdh
-dfh
-fd
-dfh
-fd
-hfd
-
+можно и с токеном, если хочется
+git remote set-url origin https://your_token@github.com/your_username/your_repo
