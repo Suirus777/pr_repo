@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 For main
 
+=======
+For Slave
+>>>>>>> Slave
 
 for second branche
 
