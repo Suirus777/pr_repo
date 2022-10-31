@@ -1,3 +1,5 @@
+Done!
+
 NEW DATA FOR RESETING
 
 
@@ -5,9 +7,16 @@ NEW DATA FOR RESETING
 
 
 <<<<<<< HEAD
+!!!!!!!!
+
+<<<<<<< HEAD
 For main
 
 =======
+=======
+For merging of Slave and slave2
+
+>>>>>>> Slave
 For Slave
 >>>>>>> Slave
 
